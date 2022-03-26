@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/HeritageMethanam/static/css/main.8327de49.css",
+    "main.js": "/HeritageMethanam/static/js/main.739c16fe.js",
+    "static/media/Banner4.png": "/HeritageMethanam/static/media/Banner4.1b1bd353f44b207e6d26.png",
+    "static/media/reservationBG.png": "/HeritageMethanam/static/media/reservationBG.55843fa0771e74091572.png",
+    "static/media/Banner1.png": "/HeritageMethanam/static/media/Banner1.c413280ac82298e8e1d1.png",
+    "static/media/Banner2.png": "/HeritageMethanam/static/media/Banner2.86646716573d02457db6.png",
+    "static/media/Banner3.png": "/HeritageMethanam/static/media/Banner3.52c8bdf5a2d5e46ec925.png",
+    "static/media/dish.png": "/HeritageMethanam/static/media/dish.7e19f14d5da114d91279.png",
+    "static/media/restaurant.png": "/HeritageMethanam/static/media/restaurant.cb124477ea419c2346f1.png",
+    "static/media/aboutImage.png": "/HeritageMethanam/static/media/aboutImage.cb2fd6fd5956aac3119e.png",
+    "static/media/middle.png": "/HeritageMethanam/static/media/middle.2494bf9f3b9833876439.png",
+    "static/media/gallery2.png": "/HeritageMethanam/static/media/gallery2.eed33dbd88c00d3422c4.png",
+    "static/media/gallery3.png": "/HeritageMethanam/static/media/gallery3.2259cd05c5a4f4edbf64.png",
+    "static/media/gallery1.png": "/HeritageMethanam/static/media/gallery1.58c01055eec36349cd8b.png",
+    "static/media/gallery6.png": "/HeritageMethanam/static/media/gallery6.64de8335cd3e8828d9fd.png",
+    "static/media/gallery7.png": "/HeritageMethanam/static/media/gallery7.a8d9f050333efaab17c1.png",
+    "static/media/gallery4.png": "/HeritageMethanam/static/media/gallery4.4acc3f16b186ad9fc0a8.png",
+    "static/media/gallery5.png": "/HeritageMethanam/static/media/gallery5.e9ee4e586e70cf3ce900.png",
+    "static/media/logo.png": "/HeritageMethanam/static/media/logo.593a7461f13735e2e1ee.png",
+    "index.html": "/HeritageMethanam/index.html",
+    "main.8327de49.css.map": "/HeritageMethanam/static/css/main.8327de49.css.map",
+    "main.739c16fe.js.map": "/HeritageMethanam/static/js/main.739c16fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8327de49.css",
+    "static/js/main.739c16fe.js"
+  ]
+}
