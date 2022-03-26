@@ -1,0 +1,13 @@
+.nav-svg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar a svg{
+    background-color: transparent; 
+    fill: white; 
+     margin: 0 1px;
+}
+.navbar .link-line {
+    background-color: white;
+}

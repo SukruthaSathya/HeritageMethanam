@@ -1,0 +1,83 @@
+.facilities-container{
+    width: inherit;
+    height: 65vh;
+    background-color: black;
+    background-image: url('/src/Images/Facilities/Banner4.png');
+    background-size: cover;
+    background-position: 0% 80%;
+    background-repeat: no-repeat;
+}
+.facilities-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7% 17%;
+    /* width: 100%; */
+    height: 55%;
+}
+.facilities-content{
+    height: 100%;
+    padding-right: 20%;
+    text-align: left;
+    display: flex;
+    flex: 1 1;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.facilities-content h1{
+    color: deepskyblue;
+    font-weight: 200;
+    font-size: 34px;
+    margin-bottom: 25px;
+}
+.facilities-content p{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 1px;
+}
+.features {
+    height: 100%;
+    flex: 1.5 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.viewFacility{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.viewFacility hr{
+    flex: 1;
+    border: 1px solid rgb(0, 191, 255);
+    margin-right: 20px;
+}
+.viewFacility h4{
+    flex: 2;
+    margin: 0;
+    letter-spacing: 2px;
+    font-size: 12px;
+    color: deepskyblue;
+}
+.feature{
+    width: 33%;
+    padding: 5% 0;
+}
+.feature img{
+    width: 50px;
+    height: 45px;
+}
+.feature h4{
+    letter-spacing: 1px;
+    font-size: 12px;
+    color: white;
+}
+.blue{
+    background: rgba(0, 191, 255, 0.5);
+}
+.violet{
+    background: rgba(147, 14, 165,0.5);
+}

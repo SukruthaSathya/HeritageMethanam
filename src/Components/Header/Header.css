@@ -1,0 +1,100 @@
+.header-container{
+    width: 98vw;
+    height: 100vh;
+    position: absolute;
+    z-index: 1;
+    background: transparent;
+}
+.header-wrapper{
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    height: auto;
+    width: 98%;
+    padding: 1%;
+}
+.contact-log{
+    background: rgba(0, 0, 0, 0.5);
+    height: fit-content;
+    width: fit-content;
+    position: absolute;
+    right: 20px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 5px;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-log ul{
+    list-style-type: none;
+    padding: 0;
+}
+.contact-log ul i{
+    font-size: 35px;
+}
+.contact-log li{
+    padding: 5px;
+    margin: 7px 0;
+}
+.contact-log p{
+    font-size: 9px;
+}
+#call-now{
+    color: rgb(252, 125, 203);
+}
+#sent-mail{
+    color: deepskyblue;
+}
+#whatsapp{
+    color: green;
+}
+.logo{
+    background-image: url("/src/Images/Header/logo-bg.png");
+    background-repeat: no-repeat;
+   height: fit-content;
+}
+.logo img{
+    padding: 30px 15px;
+    margin-right: 50px;
+}
+.navbar{
+    width: 50%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 50px;
+}
+.navbar a p{
+    margin-bottom: 3px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+
+}
+.nav-item{
+    width: auto;
+    height: auto;
+    cursor: pointer;
+}
+.nav-item:hover a{
+    color: deepskyblue;
+}
+
+.navbar button{
+    background-color: deepskyblue;
+    color: white;
+    height: fit-content;
+    padding: 15px 30px;
+    border: none;
+    margin-left: 50px;
+}
